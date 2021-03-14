@@ -1,5 +1,6 @@
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
-
+
+
 
 
 ## Week of February 15, 2021
@@ -9,21 +10,21 @@
 |------|------------|--------|
 | 2/16/2021 | [Call park and retrieve in Microsoft Teams](/MicrosoftTeams/call-park-and-retrieve) | modified |
 | 2/16/2021 | [Create a team using Teams healthcare templates](/MicrosoftTeams/expand-teams-across-your-org/healthcare/healthcare-templates-admin-console) | modified |
-| 2/16/2021 | [Templates for healthcare organizations](/MicrosoftTeams/expand-teams-across-your-org/healthcare/healthcare-templates) | modified |
 | 2/16/2021 | [Interoperability between Skype for Business and Microsoft Teams](/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability) | modified |
+| 2/16/2021 | [Templates for healthcare organizations](/MicrosoftTeams/expand-teams-across-your-org/healthcare/healthcare-templates) | modified |
+| 2/17/2021 | [Call park and retrieve in Microsoft Teams](/MicrosoftTeams/call-park-and-retrieve) | modified |
+| 2/17/2021 | [Connect your Session Border Controller (SBC) to Direct Routing](/MicrosoftTeams/direct-routing-connect-the-sbc) | modified |
+| 2/17/2021 | [Install, manage, and assign permissions for the Teams Learning app (private preview)](/MicrosoftTeams/teams-learning-app-overview) | modified |
+| 2/17/2021 | [Phone System Direct Routing](/MicrosoftTeams/direct-routing-protocols-sip) | modified |
+| 2/17/2021 | [Plan for live events in Microsoft Teams](/MicrosoftTeams/teams-live-events/plan-for-teams-live-events) | modified |
+| 2/17/2021 | [Session Border Controllers certified for Direct Routing](/MicrosoftTeams/direct-routing-border-controllers) | modified |
+| 2/17/2021 | [Teams apps behavior for non-standard users](/MicrosoftTeams/non-standard-users) | modified |
 | 2/17/2021 | [Teams for Remote Desktop](/MicrosoftTeams/teams-for-rdp) | added |
+| 2/17/2021 | Teams for Remote Desktop | removed |
+| 2/17/2021 | Templates for healthcare organizations | removed |
+| 2/17/2021 | [Use OneDrive for Business and SharePoint for meeting recordings](/MicrosoftTeams/tmr-meeting-recording-change) | modified |
 | 2/17/2021 | [Use Teams with remote desktop services](/MicrosoftTeams/teams-on-rdp) | added |
 | 2/17/2021 | [Use the Microsoft Teams Meeting add-in in Outlook](/MicrosoftTeams/teams-add-in-for-outlook) | modified |
-| 2/17/2021 | [Call park and retrieve in Microsoft Teams](/MicrosoftTeams/call-park-and-retrieve) | modified |
-| 2/17/2021 | [Session Border Controllers certified for Direct Routing](/MicrosoftTeams/direct-routing-border-controllers) | modified |
-| 2/17/2021 | [Connect your Session Border Controller (SBC) to Direct Routing](/MicrosoftTeams/direct-routing-connect-the-sbc) | modified |
-| 2/17/2021 | [Phone System Direct Routing](/MicrosoftTeams/direct-routing-protocols-sip) | modified |
-| 2/17/2021 | Templates for healthcare organizations | removed |
-| 2/17/2021 | [Teams apps behavior for non-standard users](/MicrosoftTeams/non-standard-users) | modified |
-| 2/17/2021 | [Plan for live events in Microsoft Teams](/MicrosoftTeams/teams-live-events/plan-for-teams-live-events) | modified |
-| 2/17/2021 | [Use OneDrive for Business and SharePoint for meeting recordings](/MicrosoftTeams/tmr-meeting-recording-change) | modified |
-| 2/17/2021 | Teams for Remote Desktop | removed |
-| 2/17/2021 | [Install, manage, and assign permissions for the Teams Learning app (private preview)](/MicrosoftTeams/teams-learning-app-overview) | modified |
 
 
 ## Week of February 08, 2021
@@ -31,41 +32,41 @@
 
 | Published On |Topic title | Change |
 |------|------------|--------|
-| 2/8/2021 | [Manage user access to Education Insights](/MicrosoftTeams/education-insights-manage-access) | added |
-| 2/8/2021 | [IT Admin Guide to Education Insights in Microsoft Teams](/MicrosoftTeams/class-insights) | modified |
 | 2/8/2021 | [Call and chat with users from other organizations](/MicrosoftTeams/communicate-with-users-from-other-organizations) | modified |
 | 2/8/2021 | [Create a call queue in Microsoft Teams](/MicrosoftTeams/create-a-phone-system-call-queue) | modified |
-| 2/8/2021 | [Sync Student Information System (SIS) data with Education Insights](/MicrosoftTeams/education-insights-sis-data-sync) | modified |
+| 2/8/2021 | [IT Admin Guide to Education Insights in Microsoft Teams](/MicrosoftTeams/class-insights) | modified |
 | 2/8/2021 | [Limits and specifications for Microsoft Teams](/MicrosoftTeams/limits-specifications-teams) | modified |
-| 2/8/2021 | [Manage tags in Microsoft Teams](/MicrosoftTeams/manage-tags) | modified |
-| 2/8/2021 | [Use the Teams App Submission API to submit and approve your custom apps](/MicrosoftTeams/submit-approve-custom-apps) | modified |
 | 2/8/2021 | [Manage app setup policies in Microsoft Teams](/MicrosoftTeams/teams-app-setup-policies) | modified |
-| 2/8/2021 | [Plan for live events in Microsoft Teams](/MicrosoftTeams/teams-live-events/plan-for-teams-live-events) | modified |
+| 2/8/2021 | [Manage tags in Microsoft Teams](/MicrosoftTeams/manage-tags) | modified |
 | 2/8/2021 | [Manage Teams templates in the admin center](/MicrosoftTeams/templates-policies) | modified |
+| 2/8/2021 | [Manage user access to Education Insights](/MicrosoftTeams/education-insights-manage-access) | added |
 | 2/8/2021 | [Phone number management for Belgium](/MicrosoftTeams/manage-phone-numbers-for-your-organization/phone-number-management-for-belgium) | modified |
-| 2/8/2021 | [Release notes](/MicrosoftTeams/rooms/rooms-release-note) | modified |
+| 2/8/2021 | [Plan for live events in Microsoft Teams](/MicrosoftTeams/teams-live-events/plan-for-teams-live-events) | modified |
 | 2/8/2021 | [Plan your upgrade from Skype for Business to Microsoft Teams](/MicrosoftTeams/upgrade-skype-teams) | modified |
+| 2/8/2021 | [Release notes](/MicrosoftTeams/rooms/rooms-release-note) | modified |
+| 2/8/2021 | [Sync Student Information System (SIS) data with Education Insights](/MicrosoftTeams/education-insights-sis-data-sync) | modified |
+| 2/8/2021 | [Use the Teams App Submission API to submit and approve your custom apps](/MicrosoftTeams/submit-approve-custom-apps) | modified |
 | 2/9/2021 | [Create a custom team template in Microsoft Teams](/MicrosoftTeams/create-a-team-template) | modified |
 | 2/9/2021 | [Phones and Devices for Microsoft Teams](/MicrosoftTeams/devices/usb-devices) | modified |
-| 2/10/2021 | [Microsoft Teams auto attendant supported languages](/MicrosoftTeams/create-a-phone-system-auto-attendant-languages) | added |
-| 2/10/2021 | [Microsoft Teams call queue supported languages](/MicrosoftTeams/create-a-phone-system-call-queue-languages) | added |
-| 2/10/2021 | [Set up an auto attendant for Microsoft Teams](/MicrosoftTeams/create-a-phone-system-auto-attendant) | modified |
-| 2/10/2021 | [Create a call queue in Microsoft Teams](/MicrosoftTeams/create-a-phone-system-call-queue) | modified |
-| 2/10/2021 | [Sync Student Information System (SIS) data with Education Insights](/MicrosoftTeams/education-insights-sis-data-sync) | modified |
-| 2/10/2021 | [Information barriers in Microsoft Teams](/MicrosoftTeams/information-barriers-in-teams) | modified |
-| 2/10/2021 | [Deploy Microsoft Teams Rooms with Microsoft 365 or Office 365](/MicrosoftTeams/rooms/with-office-365) | modified |
-| 2/10/2021 | [Microsoft Teams analytics and reporting](/MicrosoftTeams/teams-analytics-and-reports/teams-reporting-reference) | modified |
-| 2/10/2021 | [Microsoft Teams user activity report](/MicrosoftTeams/teams-analytics-and-reports/user-activity-report) | modified |
-| 2/10/2021 | [Teams Contact Center](/MicrosoftTeams/teams-contact-center) | modified |
-| 2/10/2021 | [Introduction to Teams Policy-based Recording for Calling & Meetings](/MicrosoftTeams/teams-recording-policy) | modified |
-| 2/10/2021 | [Use OneDrive for Business and SharePoint for meeting recordings](/MicrosoftTeams/tmr-meeting-recording-change) | modified |
 | 2/10/2021 | [Apps, bots, & connectors in Microsoft Teams](/MicrosoftTeams/deploy-apps-microsoft-teams-landing-page) | modified |
-| 2/10/2021 | [Direct Routing SBA](/MicrosoftTeams/direct-routing-survivable-branch-appliance) | modified |
-| 2/10/2021 | [Purchase third-party apps for Teams](/MicrosoftTeams/purchase-third-party-apps) | modified |
-| 2/10/2021 | [Microsoft Teams Rooms](/MicrosoftTeams/rooms/index) | modified |
 | 2/10/2021 | [Assign Teams add-on licenses to users](/MicrosoftTeams/teams-add-on-licensing/assign-teams-add-on-licenses) | modified |
+| 2/10/2021 | [Create a call queue in Microsoft Teams](/MicrosoftTeams/create-a-phone-system-call-queue) | modified |
+| 2/10/2021 | [Deploy Microsoft Teams Rooms with Microsoft 365 or Office 365](/MicrosoftTeams/rooms/with-office-365) | modified |
+| 2/10/2021 | [Direct Routing SBA](/MicrosoftTeams/direct-routing-survivable-branch-appliance) | modified |
+| 2/10/2021 | [Information barriers in Microsoft Teams](/MicrosoftTeams/information-barriers-in-teams) | modified |
 | 2/10/2021 | [Interoperability between Skype for Business and Microsoft Teams](/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability) | modified |
+| 2/10/2021 | [Introduction to Teams Policy-based Recording for Calling & Meetings](/MicrosoftTeams/teams-recording-policy) | modified |
 | 2/10/2021 | [Manage the Microsoft Teams Exploratory experience](/MicrosoftTeams/teams-exploratory) | modified |
+| 2/10/2021 | [Microsoft Teams auto attendant supported languages](/MicrosoftTeams/create-a-phone-system-auto-attendant-languages) | added |
+| 2/10/2021 | [Microsoft Teams analytics and reporting](/MicrosoftTeams/teams-analytics-and-reports/teams-reporting-reference) | modified |
+| 2/10/2021 | [Microsoft Teams call queue supported languages](/MicrosoftTeams/create-a-phone-system-call-queue-languages) | added |
+| 2/10/2021 | [Microsoft Teams Rooms](/MicrosoftTeams/rooms/index) | modified |
+| 2/10/2021 | [Microsoft Teams user activity report](/MicrosoftTeams/teams-analytics-and-reports/user-activity-report) | modified |
+| 2/10/2021 | [Purchase third-party apps for Teams](/MicrosoftTeams/purchase-third-party-apps) | modified |
+| 2/10/2021 | [Set up an auto attendant for Microsoft Teams](/MicrosoftTeams/create-a-phone-system-auto-attendant) | modified |
+| 2/10/2021 | [Sync Student Information System (SIS) data with Education Insights](/MicrosoftTeams/education-insights-sis-data-sync) | modified |
+| 2/10/2021 | [Teams Contact Center](/MicrosoftTeams/teams-contact-center) | modified |
+| 2/10/2021 | [Use OneDrive for Business and SharePoint for meeting recordings](/MicrosoftTeams/tmr-meeting-recording-change) | modified |
 | 2/11/2021 | [View-only meeting experience](/MicrosoftTeams/view-only-meeting-experience) | added |
 | 2/11/2021 | [Microsoft Teams user activity report](/MicrosoftTeams/teams-analytics-and-reports/user-activity-report) | modified |
 | 2/11/2021 | [Assign policies to your users in Microsoft Teams](/MicrosoftTeams/assign-policies) | modified |
